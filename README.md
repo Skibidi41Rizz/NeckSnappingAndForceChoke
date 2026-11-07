@@ -20,7 +20,7 @@ joints and the enemy voice bank - so it behaves like a vanilla mechanic.
 ## Install
 
 1. Install [MelonLoader](https://melonwiki.xyz/) into BRUTALISTICK VR (once).
-2. Drop `plugins/NeckSnappingAndForceChoke.dll` into `<game folder>\Mods`.
+2. Drop `NeckSnappingAndForceChoke.dll` into `<game folder>\Mods`.
 3. Start the game. The MelonLoader console should say `NeckSnappingAndForceChoke: loaded`.
 
 Install with r2modman or the Thunderstore Mod Manager and steps 1-2 happen for you.
@@ -73,7 +73,7 @@ game (`MelonLoader\net6` and `MelonLoader\Il2CppAssemblies`).
 
 ## License
 
-MIT - see [LICENSE](LICENSE).
+MIT - see [LICENSE](https://github.com/Skibidi41Rizz/NeckSnappingAndForceChoke/blob/main/LICENSE).
 
 ---
 
