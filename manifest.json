@@ -1,0 +1,9 @@
+{
+  "name": "NeckSnappingAndForceChoke",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Grab an enemy by the neck to choke him out - he convulses, loses balance, wheezes and dies. Press B while holding the neck to snap it with the game's own fracture system.",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.3"
+  ]
+}
